@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import genericlibraries.BaseClass;
-
+//This is the testScript to test Category page
 public class CreateCategoryTest extends BaseClass{
 	@Test
 	public void createCategoryTest() throws InterruptedException {
